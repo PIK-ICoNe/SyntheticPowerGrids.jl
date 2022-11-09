@@ -19,6 +19,7 @@ SyntheticNetworks = "249d44c8-44e3-11e9-1b59-f5895c860273"
 
 [compat]
 PowerDynamics = "^3.1.4"
+StatsBase = "0.33"
 julia = "1.7"
 
 [extras]
